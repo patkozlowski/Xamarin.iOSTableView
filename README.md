@@ -1,6 +1,6 @@
 # Xamarin.iOSTableView
 
-Xamarin.iOS 10 project to how to ingest information into a UITableView.
+Xamarin.iOS 10 project show how to ingest information into a UITableView.
 
 Ingested data two ways: JSON File, and using Parse Server (You need to configure your own Parse Server).
 
@@ -10,4 +10,4 @@ When selecting a UITableView Cell, this will navigate to that location using the
 
 Use XCode 8 Interface builder if you need to tweak the GUI.
 
-Using Parse Server, create your own Parse Server instance using https://github.com/ParsePlatform/parse-server-example (I used Heroku, and it's free in Dev environments). Create a "Museum" class and create "Name", "Address", "Latitude", and "Longitude" columns, and input row information for each one. See AppDelegate.cs.
+Using Parse Server, create your own Parse Server instance using https://github.com/ParsePlatform/parse-server-example (I used Heroku, and it's free in Dev environments). Create a "Museum" class and create "Name", "Address", "Latitude", "Longitude", and "Image" columns, and input row information for each one. See AppDelegate.cs.
