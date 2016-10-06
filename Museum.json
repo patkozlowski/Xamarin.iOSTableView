@@ -1,0 +1,27 @@
+{"Museum":
+[
+  {
+    "Name": "The Art Institute of Chicago",
+    "Address": "111 S Michigan Ave, Chicago, IL 60603",
+    "Latitude": 41.8795845,
+    "Longitude": -87.625902,
+	"Image": "https://static1.squarespace.com/static/5563b147e4b09a14dbb4f0fe/t/56d3a0fd859fd0668189c27f/1456709890764/"
+  },
+  {
+  
+    "Name": "The Field Museum",
+    "Address": "1400 S Lake Shore Dr, Chicago, IL 60605",
+    "Latitude": 41.866261,
+    "Longitude": -87.6191692,
+	"Image": "https://www.fieldmuseum.org/sites/default/files/styles/5x3_800w/public/mrobinson/2014/07/30/02_field.jpg?itok=guZz98sT",
+  },
+  {
+  
+    "Name": "Adler Planetarium",
+    "Address": "Museum Campus, 1300 S Lake Shore Dr, Chicago, IL 60605",
+    "Latitude": 41.866333,
+    "Longitude": -87.6089716,
+	"Image": "https://media.timeout.com/images/100892289/image.jpg",
+  },
+]
+}
